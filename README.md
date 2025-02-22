@@ -14,8 +14,8 @@ TransLogi is a web application designed to optimize logistics management, enabli
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (or replace with your choice if different)
-- **APIs**: Google Maps API (or any other mapping API used)
+- **Database**: MongoDB
+- **APIs**: Google Maps API
 - **Hosting**: Vercel
 
 ## 🌐 Live Demo
